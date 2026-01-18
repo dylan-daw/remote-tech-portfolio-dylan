@@ -45,3 +45,14 @@ model (LLM) answers:
 
 Main file: `ai_evaluator_examples.md`
 
+## Project 4 — Developer Documentation Sample (LLM Retrieval API)
+
+A developer documentation writing sample showing:
+- Quickstart + docs structure
+- API reference (request/response examples)
+- RAG tutorial (LLM + retrieval integration concepts)
+- OpenAPI spec file
+- Runnable mock server/client examples
+
+Folder: `project4_developer_docs_sample`
+Start here: `project4_developer_docs_sample/README.md`
