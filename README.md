@@ -1,7 +1,10 @@
 # Remote Tech Portfolio — Dylan Daw
 
 This repo contains small, focused projects that demonstrate skills I use in remote technical roles: Python, data analysis, testing, technical documentation, and AI evaluation.
-Best starting points: Project 4 (docs), Project 1 (analysis), Project 2 (tests), Project 3 (LLM evaluation).
+
+**What I’m targeting:** Technical Writer, Documentation Specialist/Analyst, QA / AI Evaluation, and related roles.
+
+**Best starting points:** Project 4 (docs), Project 1 (analysis), Project 2 (tests), Project 3 (LLM evaluation)
 
 ---
 
