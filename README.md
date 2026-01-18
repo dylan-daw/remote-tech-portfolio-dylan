@@ -9,7 +9,7 @@ This repo contains small, focused projects that demonstrate skills I use in remo
 ---
 
 ## Project 1 — Titanic Survival Analysis
-**Folder:** `project1_titanic_analysis`  
+**Folder:** [`project1_titanic_analysis`](project1_titanic_analysis)  
 A Jupyter notebook using the Kaggle Titanic dataset to:
 - Load and inspect real-world CSV data with pandas
 - Perform basic EDA with plots
@@ -17,36 +17,36 @@ A Jupyter notebook using the Kaggle Titanic dataset to:
 - Train and evaluate a baseline logistic regression model
 - Visualize results with a confusion matrix
 
-**Main file:** `project1_titanic_analysis/titanic_analysis.ipynb`
+**Main file:** [`project1_titanic_analysis/titanic_analysis.ipynb`](project1_titanic_analysis/titanic_analysis.ipynb)
 
 ---
 
 ## Project 2 — Temperature Converter & Tests
-**Folder:** `project2_temp_tests`  
+**Folder:** [`project2_temp_tests`](project2_temp_tests)  
 A small Python module + tests that:
 - Converts between Celsius and Fahrenheit
 - Validates inputs
 - Includes a pytest test suite
 
 **Main files:**
-- `project2_temp_tests/temp_converter.py`
-- `project2_temp_tests/test_temp_converter.py`
+- [`project2_temp_tests/temp_converter.py`](project2_temp_tests/temp_converter.py)
+- [`project2_temp_tests/test_temp_converter.py`](project2_temp_tests/test_temp_converter.py)
 
 ---
 
 ## Project 3 — AI Evaluator Examples
-**Folder:** `project3_ai_evaluator_examples`  
+**Folder:** [`project3_ai_evaluator_examples`](project3_ai_evaluator_examples)  
 Examples showing how I evaluate LLM answers:
 - Example prompts and model responses
 - Scoring rubric (accuracy, completeness, clarity, safety)
 - Short written justifications + suggested improvements
 
-**Main file:** `project3_ai_evaluator_examples/ai_evaluator_examples.md`
+**Main file:** [`project3_ai_evaluator_examples/ai_evaluator_examples.md`](project3_ai_evaluator_examples/ai_evaluator_examples.md)
 
 ---
 
 ## Project 4 — Developer Documentation Sample (LLM Retrieval API)
-**Folder:** `project4_developer_docs_sample`  
+**Folder:** [`project4_developer_docs_sample`](project4_developer_docs_sample)  
 A developer documentation writing sample that includes:
 - Quickstart and docs structure
 - API reference (request/response examples)
@@ -54,4 +54,4 @@ A developer documentation writing sample that includes:
 - OpenAPI spec file
 - Runnable mock server/client examples
 
-**Start here:** `project4_developer_docs_sample/README.md`
+**Start here:** [`project4_developer_docs_sample/README.md`](project4_developer_docs_sample/README.md)
