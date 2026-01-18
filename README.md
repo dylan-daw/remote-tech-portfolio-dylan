@@ -4,7 +4,15 @@ This repo contains small, focused projects that demonstrate skills I use in remo
 
 **What I’m targeting:** Technical Writer, Documentation Specialist/Analyst, QA / AI Evaluation, and related roles.
 
-**Best starting points:** Project 4 (docs), Project 1 (analysis), Project 2 (tests), Project 3 (LLM evaluation)
+**Best starting points:** [Project 4 (docs)](#project-4--developer-documentation-sample-llm-retrieval-api) · [Project 1 (analysis)](#project-1--titanic-survival-analysis) · [Project 2 (tests)](#project-2--temperature-converter--tests) · [Project 3 (LLM evaluation)](#project-3--ai-evaluator-examples)
+
+---
+
+## Quick skills map
+- **Technical documentation:** docs structure, API reference, tutorials, OpenAPI
+- **Python:** analysis scripts/notebooks, validation, small tooling
+- **Testing:** pytest, basic test design and edge cases
+- **AI evaluation:** rubric-based grading, clarity/safety/accuracy assessment
 
 ---
 
@@ -19,6 +27,9 @@ A Jupyter notebook using the Kaggle Titanic dataset to:
 
 **Main file:** [`project1_titanic_analysis/titanic_analysis.ipynb`](project1_titanic_analysis/titanic_analysis.ipynb)
 
+**Run (optional):**
+- Open the notebook in Jupyter/VS Code: `project1_titanic_analysis/titanic_analysis.ipynb`
+
 ---
 
 ## Project 2 — Temperature Converter & Tests
@@ -31,6 +42,9 @@ A small Python module + tests that:
 **Main files:**
 - [`project2_temp_tests/temp_converter.py`](project2_temp_tests/temp_converter.py)
 - [`project2_temp_tests/test_temp_converter.py`](project2_temp_tests/test_temp_converter.py)
+
+**Run (optional):**
+- From repo root: `pytest -q`
 
 ---
 
@@ -55,3 +69,11 @@ A developer documentation writing sample that includes:
 - Runnable mock server/client examples
 
 **Start here:** [`project4_developer_docs_sample/README.md`](project4_developer_docs_sample/README.md)
+
+**Run (optional):**
+- See the Project 4 README for mock server/client steps.
+
+---
+
+## Contact
+- Email: dylandaw22@gmail.com
