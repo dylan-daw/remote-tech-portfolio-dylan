@@ -28,7 +28,6 @@ Suggested improvement (optional, short)
 
 ## EX-001 — Factual explanation (Cloud computing)
 
-
 Task type: Factual / explanatory  
 User prompt: Why might a company choose to use cloud computing instead of running all of its own servers?
 
