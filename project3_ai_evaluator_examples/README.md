@@ -1,12 +1,16 @@
 # Project 3 — AI Evaluator Examples
 
-Start with **Evaluator Pack (v1)** for a realistic workflow sample (rubric → taxonomy → labeled examples → log). Then skim [ai_evaluator_examples.md](./ai_evaluator_examples.md) for narrative end-to-end examples.
+Start with **Evaluator Pack (v1)** for a realistic workflow sample (rubric → taxonomy → labeled examples → log).  
+Then skim **ai_evaluator_examples.md** for narrative end-to-end examples.
 
 This project showcases how I think as an AI evaluator / rater when reviewing answers from large language models (LLMs).
 
 ## Start here (Evaluator Pack)
 
 Evaluator Pack (v1): [./evaluator_pack/](./evaluator_pack/)
+
+If you only read one thing, read: [labeled_examples_v1.md](./evaluator_pack/labeled_examples_v1.md)
+
 
 It includes:
 
@@ -21,7 +25,7 @@ It includes:
 
 ## What this demonstrates
 
-- Careful, consistent judgment using rubrics  
-- Clear written justifications and actionable feedback  
-- Awareness of safety, tone, and user usefulness  
+- Careful, consistent judgment using rubrics
+- Clear written justifications and actionable feedback
+- Awareness of safety, tone, and user usefulness
 - Comfort producing structured annotation artifacts (MD + CSV)
