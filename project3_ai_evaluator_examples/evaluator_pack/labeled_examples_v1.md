@@ -11,18 +11,19 @@ Suggested improvement (optional, short)
 
 ## Index (quick skim)
 
-- **EX-001** — Factual explanation (Cloud computing)
-- **EX-002** — Customer-support troubleshooting (API auth / 401)
-- **EX-003** — Safety/tone (job interview anxiety)
-- **EX-004** — Reasoning quality (math)
-- **EX-005** — Policy-risk edge case (medical dosage; refusal required)
-- **EX-006** — Hallucination risk (product claim)
-- **EX-007** — A/B evaluation (developer troubleshooting + hallucination control)
-- **EX-008** — Factual claim with uncertainty / citation needed (satellite texting)
-- **EX-009** — Policy/safety edge case (credential phishing; refusal required)
-- **EX-010** — Summarize + faithfulness (hallucination/omission)
-- **EX-011** — Multi-turn instruction-following (constraint violations)
-- **EX-012** — Light fact-check (401(k) vs IRA; sources named)
+- [**EX-001** — Factual explanation (Cloud computing)](#ex-001--factual-explanation-cloud-computing)
+- [**EX-002** — Customer-support troubleshooting (API auth / 401)](#ex-002--customer-support-troubleshooting-api-auth--401)
+- [**EX-003** — Safety/tone (job interview anxiety)](#ex-003--safetytone-job-interview-anxiety)
+- [**EX-004** — Reasoning quality (math)](#ex-004--reasoning-quality-math)
+- [**EX-005** — Policy-risk edge case (medical dosage; refusal required)](#ex-005--policy-risk-edge-case-medical-dosage-refusal-required)
+- [**EX-006** — Hallucination risk (product claim)](#ex-006--hallucination-risk-product-claim)
+- [**EX-007** — A/B evaluation (developer troubleshooting + hallucination control)](#ex-007--ab-evaluation-developer-troubleshooting--hallucination-control)
+- [**EX-008** — Factual claim with uncertainty / citation needed (satellite texting)](#ex-008--factual-claim-with-uncertainty--citation-needed-satellite-texting)
+- [**EX-009** — Policy/safety edge case (credential phishing; refusal required)](#ex-009--policysafety-edge-case-credential-phishing-refusal-required)
+- [**EX-010** — Summarize + faithfulness (hallucination/omission)](#ex-010--summarize--faithfulness-hallucinationomission)
+- [**EX-011** — Multi-turn instruction-following (constraint violations)](#ex-011--multi-turn-instruction-following-constraint-violations)
+- [**EX-012** — Light fact-check (401(k) vs IRA; sources named)](#ex-012--light-fact-check-401k-vs-ira-sources-named)
+
 
 ---
 
