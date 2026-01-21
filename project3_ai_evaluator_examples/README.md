@@ -11,6 +11,14 @@ Evaluator Pack (v1): [./evaluator_pack/](./evaluator_pack/)
 
 If you only read one thing, read: [labeled_examples_v1.md](./evaluator_pack/labeled_examples_v1.md)
 
+### 60-second skim (recommended)
+
+1. Read: [labeled_examples_v1.md](./evaluator_pack/labeled_examples_v1.md) (best single artifact)
+2. Skim: [taxonomy_v1.md](./evaluator_pack/taxonomy_v1.md) (how issues are tagged)
+3. Glance: [evaluation_log.csv](./evaluator_pack/evaluation_log.csv) (what consistent logging looks like)
+4. Optional: [rubric_v1.md](./evaluator_pack/rubric_v1.md) (scoring definitions)
+
+
 
 It includes:
 
