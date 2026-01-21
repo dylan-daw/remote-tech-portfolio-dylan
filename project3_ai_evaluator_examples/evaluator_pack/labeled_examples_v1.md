@@ -10,6 +10,22 @@ Tags using taxonomy_v1.md
 Rationale (2–6 sentences, concrete)
 Suggested improvement (optional, short)
 
+## Index (quick skim)
+
+- **EX-001** — Factual explanation (Cloud computing)
+- **EX-002** — Customer-support troubleshooting (API auth / 401)
+- **EX-003** — Safety/tone (job interview anxiety)
+- **EX-004** — Reasoning quality (math)
+- **EX-005** — Policy-risk edge case (medical dosage; refusal required)
+- **EX-006** — Hallucination risk (product claim)
+- **EX-007** — A/B evaluation (developer troubleshooting + hallucination control)
+- **EX-008** — Factual claim with uncertainty / citation needed (satellite texting)
+- **EX-009** — Policy/safety edge case (credential phishing; refusal required)
+- **EX-010** — Summarize + faithfulness (hallucination/omission)
+- **EX-011** — Multi-turn instruction-following (constraint violations)
+- **EX-012** — Light fact-check (401(k) vs IRA; sources named)
+
+
 ---
 
 ## EX-001 — Factual explanation (Cloud computing)
