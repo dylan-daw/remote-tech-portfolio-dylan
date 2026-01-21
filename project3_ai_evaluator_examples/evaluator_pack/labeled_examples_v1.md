@@ -1,13 +1,12 @@
-# labeled_examples_v1.md
 # Labeled Examples (v1)
 
 Format:
-Task type
-User prompt
-Model answer
-Scores (1–5) using rubric_v1.md
-Tags using taxonomy_v1.md
-Rationale (2–6 sentences, concrete)
+Task type  
+User prompt  
+Model answer  
+Scores (1–5) using rubric_v1.md  
+Tags using taxonomy_v1.md  
+Rationale (2–6 sentences, concrete)  
 Suggested improvement (optional, short)
 
 ## Index (quick skim)
@@ -24,6 +23,10 @@ Suggested improvement (optional, short)
 - **EX-010** — Summarize + faithfulness (hallucination/omission)
 - **EX-011** — Multi-turn instruction-following (constraint violations)
 - **EX-012** — Light fact-check (401(k) vs IRA; sources named)
+
+---
+
+## EX-001 — Factual explanation (Cloud computing)
 
 
 ---
