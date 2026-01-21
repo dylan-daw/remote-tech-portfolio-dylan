@@ -1,4 +1,5 @@
 example_id,task_type,accuracy,completeness,clarity,helpfulness,safety,tags,summary
+EX-000,Meta / pack info,NA,NA,NA,NA,NA,"Rubric=v1; Taxonomy=v1; LabeledExamples=v1; LogSchema=v1","Evaluator Pack v1 baseline: rubric_v1 + taxonomy_v1 + labeled_examples_v1 aligned; this log mirrors EX-001..EX-012 for consistency."
 EX-001,Factual / explanatory,4,3,5,4,5,"Omission.Minor; Helpfulness.MissingNextSteps","Correct high-level reasons; add reliability/managed services and a concrete example."
 EX-002,Technical support / troubleshooting,2,2,4,2,5,"Accuracy.MajorError; Troubleshooting.OffTarget; Omission.Major","Misstates meaning of 401; should focus on auth headers/tokens/scopes and reproduction steps."
 EX-003,Advice / emotional support,4,2,5,2,4,"Tone.Dismissive; Helpfulness.Generic; Helpfulness.MissingNextSteps","Minimizes anxiety; needs validation and actionable coping steps."
