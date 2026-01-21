@@ -10,6 +10,7 @@ Rationale (2–6 sentences, concrete)
 Suggested improvement (optional, short)
 
 ## Index (quick skim)
+Tip: Click an example, then use "Back to index" at the top of each section.
 
 - [**EX-001** — Factual explanation (Cloud computing)](#ex-001)
 - [**EX-002** — Customer-support troubleshooting (API auth / 401)](#ex-002)
