@@ -4,8 +4,8 @@ Format:
 Task type  
 User prompt  
 Model answer  
-Scores (1–5) using rubric_v1.md  
-Tags using taxonomy_v1.md  
+Scores (1–5) using [rubric_v1.md](./rubric_v1.md)  
+Tags using [taxonomy_v1.md](./taxonomy_v1.md)  
 Rationale (2–6 sentences, concrete)  
 Suggested improvement (optional, short)
 
@@ -28,10 +28,6 @@ Suggested improvement (optional, short)
 
 ## EX-001 — Factual explanation (Cloud computing)
 
-
----
-
-## EX-001 — Factual explanation (Cloud computing)
 
 Task type: Factual / explanatory  
 User prompt: Why might a company choose to use cloud computing instead of running all of its own servers?
