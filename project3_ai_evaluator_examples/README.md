@@ -1,5 +1,7 @@
 # Project 3 — AI Evaluator Examples
 
+Start with **Evaluator Pack (v1)** for a realistic workflow sample (rubric → taxonomy → labeled examples → log). Then skim [ai_evaluator_examples.md](./ai_evaluator_examples.md) for narrative end-to-end examples.
+
 This project showcases how I think as an AI evaluator / rater when reviewing answers from large language models (LLMs).
 
 ## Start here (Evaluator Pack)
