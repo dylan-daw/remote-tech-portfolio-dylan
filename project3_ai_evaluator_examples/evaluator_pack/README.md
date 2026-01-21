@@ -5,8 +5,9 @@ It demonstrates consistent scoring, concise justifications, and actionable impro
 
 Suggested order:
 
-1) `rubric_v1.md`  
-2) `taxonomy_v1.md`  
-3) `labeled_examples_v1.md`  
-4) `evaluation_log.csv`
+1. [Rubric (v1)](rubric_v1.md)
+2. [Taxonomy (v1)](taxonomy_v1.md)
+3. [Labeled examples (v1)](labeled_examples_v1.md)
+4. [Evaluation log (CSV)](evaluation_log.csv)
+
 
