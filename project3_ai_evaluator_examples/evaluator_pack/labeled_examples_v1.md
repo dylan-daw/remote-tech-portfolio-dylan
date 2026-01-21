@@ -27,6 +27,14 @@ Tip: Click an example, then use "Back to index" at the top of each section.
 
 ---
 
+Pack version: v1  
+Rubric: [rubric_v1.md](./rubric_v1.md)  
+Taxonomy: [taxonomy_v1.md](./taxonomy_v1.md)  
+Log schema: [evaluation_log.csv](./evaluation_log.csv) (mirrors EX-001..EX-012)
+
+
+---
+
 <a id="ex-001"></a>
 ## EX-001 — Factual explanation (Cloud computing)
 [↑ Back to index](#index-quick-skim)
