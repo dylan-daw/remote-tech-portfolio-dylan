@@ -10,7 +10,7 @@ If you only click one thing, start here:
 **EmberWatch Simulation Demo (video + logs)**  
 A runnable Python simulation showing coordinated agent behavior, event logging, and replayable outputs. The goal is to demonstrate how I structure a system, measure behavior, and produce artifacts that others can review.
 
-Repo: `https://github.com/dylan-daw/emberwatch-simulation-demo`
+Repo: [emberwatch-simulation-demo](https://github.com/dylan-daw/emberwatch-simulation-demo)
 
 ---
 
